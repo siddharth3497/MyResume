@@ -1,0 +1,6 @@
+.container {
+    background: linear-gradient(to right, orange, darkgreen);
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px;
+}
